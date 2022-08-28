@@ -4,11 +4,7 @@ like and retweet tweets however unregistered users have the ability to only read
 or programmatically via its APIs Prior to April 2020 services were accessible via SMS9 Tweets were originally restricted to 140 characters but the limit was doubled to 280 for nonCJK languages
 in November 2017 Audio and video tweets remain limited to 140 seconds for most accounts.
 
-Creator
-Twitter was created by Jack Dorsey Noah Glass Biz Stone and Evan Williams in March 2006 and launched in July of that year.
 
-headqaurters
-Twitter Inc is based in San Francisco California and has more than 25 offices around the world.
 
 users per day
 By 2012 more than 100 million users posted 340 million tweets a day and the service handled an average of 16 billion search queries per day
